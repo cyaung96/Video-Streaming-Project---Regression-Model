@@ -1,2 +1,15 @@
-# Video-Streaming-Project---Regression-Model
+# Video-Streaming-Project: Regression-Model
 The research is based on the perspective of media production companies and aims to figure out the influence of platforms on performance of content
+# Introduction and Business Problem
+Video streaming platforms have become one of the main sources people tend to choose to enjoy video-streamed content. Since there are various platform choices nowadays, it is essential for media production companies to select the right one that can help them make the most profit. With suitable video platforms, films or shows produced by media production companies can reach more viewers and gain more popularity. Therefore, our research is based on the perspective of media production companies and aims to figure out the influence of platforms on performance of content.
+
+# Hypothesis and the importance of using data to answer our research question
+Using a data driven approach will allow us to make a strategic decision based on data analysis and interpretation. On top of that it will allow us to examine and organize the data in a way where we can see which platform, Netflix or HBO Max, that we as a production company will use to give us the highest profit and exposure of our drama shows and movies. 
+Before diving into the data, we are assuming that our drama content will do better on HBO Max. While we are taking into consideration that Netflix may have more subscribers, we still think that HBO Max will do better. We believe this because content on HBO Max is considered to have higher quality drama content that is more popular with all age groups than that of Netflix. Examples of some popular drama shows and movies on HBO Max include: Euphoria, an Emmy nominated show for teenagers and young adults; Succession; and the highly acclaimed fantasy drama Game of Thrones. 
+
+Nonetheless, it is also possible that the number of subscribers on a platform has more effect on the overall popularity and score of a show or movie. If this is the case, then Netflix will have an advantage since they have a higher number of subscribers and have been the pioneers and leaders in the online streaming market. Even with this information it is important to note that a higher number of subscribers doesn't mean the shows and movies will receive higher IMDB scores. Many of the subscribers are parents that use the platform to entertain their kids, a demographic that doesn't necessarily watch drama content. Another reason subscriber numbers may not correlate to better scores is that in recent years, Netflix has acquired a reputation of not having good quality content, which will repel potential viewers. All of this combined with the fact that Netflix targets multiple age ranges dilutes how many drama content seeking users will use Netflix instead of HBO Max. With the information provided above we are assuming the following:
+
+- Null Hypothesis: IMDB score of drama content is not affected based on the platform
+Before analyzing the data we are going to assume that there is no relationship between platform and IMDB score
+- Alternative Hypothesis: IMDB score of drama content is affected based on the platform
+We believe that there is actually a relationship between the platform and IMDB score
